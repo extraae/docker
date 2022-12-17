@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T00:40:31.188Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="FYVkB6mMgwML2B5sqsbJ" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-17T00:41:58.264Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="qbSjPS0EKploqJRpLAVn" version="20.7.4" type="github">
   <diagram id="tBJtGItLAEdfWHWXXBW2" name="Page-1">
-    <mxGraphModel dx="2071" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2900" dy="2419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,11 +128,24 @@
         <mxCell id="g5JYePuPsJwM0HJEv5b4-11" value="Select OS (Docker, Linux, Windows)" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1140" y="900" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="g5JYePuPsJwM0HJEv5b4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g5JYePuPsJwM0HJEv5b4-13" target="g5JYePuPsJwM0HJEv5b4-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="g5JYePuPsJwM0HJEv5b4-13" value="Show docs installation guide" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1280" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="g5JYePuPsJwM0HJEv5b4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g5JYePuPsJwM0HJEv5b4-14" target="g5JYePuPsJwM0HJEv5b4-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="g5JYePuPsJwM0HJEv5b4-14" value="Download worker client&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=14;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1060" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5JYePuPsJwM0HJEv5b4-19" value="End worker configuration" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="1280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
